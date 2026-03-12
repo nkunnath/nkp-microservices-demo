@@ -1,3 +1,3 @@
 # Requirements
 
-You must label the namespace with `istio-injection=enabled` for Istio automatic sidecar injection.
+You must label the namespace with `istio.io/rev=istio-helm` for Istio automatic sidecar injection.
